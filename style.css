@@ -13,13 +13,13 @@ h2 {
 
 h3 {
 	font-size: 20px;
-	text-align: center;
-	margin: 5px;
+	text-align: left;
+	margin-bottom: 0px;
 }
 
 p{
 	font-size: 18px;
-	text-align: center;
+	text-align: left;
 }
 
 hr {
